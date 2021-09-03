@@ -1,7 +1,8 @@
 CC=gcc 
 CFLAGS=-Wall
 
+objects = Ago13/hello
+all: $(objects)
 
-all: Ago13/hello
-hello: Ago13/hello.o
-hello.o: Ago13/hello.c 
+$(objects): %: %.c
+        $(CC) $(CFLAGS) -o $@ $<

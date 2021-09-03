@@ -1,8 +1,7 @@
 CC=gcc 
 CFLAGS=-Wall -pedantic
 
-objects = Ago13/hello Ago25/operaciones_int Ago25/operaciones_float Ago27/temperaturas Ago27/area_circulo
-all: $(objects)
-
-$(objects): %: %.c
+Ago25 = Ago13/hello Ago25/operaciones_int Ago25/operaciones_float
+all: $(Ago25)
+$(Ago25): %: %.c
 	$(CC) $(CFLAGS) -o $@ $<

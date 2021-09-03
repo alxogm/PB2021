@@ -1,5 +1,5 @@
 CC=gcc 
-CFLAGS=-Wall
+CFLAGS=-Wall -pedantic
 
 objects = Ago13/hello Ago25/operaciones_int Ago25/operaciones_float Ago27/temperaturas Ago27/area_circulo
 all: $(objects)

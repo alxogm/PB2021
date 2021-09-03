@@ -8,5 +8,5 @@ CFLAGS=-Wall -pedantic
 
 Ago27 = Ago27/area_circulo Ago27/temperaturas
 all: $(Ago27)
-$(Ago25): %: %.c
-        $(CC) $(CFLAGS) -o $@ $<
+$(Ago27): %: %.c
+	$(CC) $(CFLAGS) -o $@ $<

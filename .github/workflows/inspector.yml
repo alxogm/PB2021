@@ -1,4 +1,9 @@
-- name: Code Inspector GitHub action
+name: Code Inspector GitHub action
+  on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
   # You may pin to the exact commit or the version.
   # uses: codeinspectorio/github-action@01c818be303e2c4bcec991ca1c51feab753a1e2a
   uses: codeinspectorio/github-action@v1

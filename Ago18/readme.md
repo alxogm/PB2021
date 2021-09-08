@@ -55,7 +55,7 @@ repositorio local tiene actualizaciones que no se encuentran en el repositorio e
    ``` 
    git status
    git pull
-   git pull https://github.com/alxogm/PB2021 master
+   git pull https://github.com/alxogm/PB2021 
    git add lista_nombre_de_archivos
    git commit
    git push

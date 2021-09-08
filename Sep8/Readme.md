@@ -4,10 +4,10 @@ Ejercicios:
   - El programa debe enviar un mensaje de error si el numero proporcionado tiene más de tres cifras. 
   - Opcional Implementa el algoritmo en un programa y verifica que funciona. 
   
- 2) La calificación final de un alumno se obtiene de promediar las 3 calificaciones mas altas obtenidas, de 4 exámenes realizados. Diseña un algoritmo para un programa que determine el promedio del alumno e indiqué la nota que fue eliminada. 
+2) La calificación final de un alumno se obtiene de promediar las 3 calificaciones mas altas obtenidas, de 4 exámenes realizados. Diseña un algoritmo para un programa que determine el promedio del alumno e indiqué la nota que fue eliminada. 
    - Opcional: Implementa el algoritmo en un programa y verifica que funciona. 
 
-2) Repite el ejercicio de cambio de coordenadas para:
+3) Repite el ejercicio de cambio de coordenadas para:
   - Preguntar si se quiere transformar de (a) cartesianas a polares o (b) polares a cartesianas. 
   - Preguntar si se quiere trabajar en grados o radianes. 
   - Solicitar las coordenadas a transformar (x,y) o (r,theta) según haya sido la elección en la primera pregunta.

@@ -14,4 +14,4 @@ $(Ago27): %: %.c
 Sep1 = Sep1/cambio_coordenadas
 all: $(Sep1)
 $(Sep1): %: %.c
-	$(CC) $(CFLAGS) -lm -o $@ $<
+	$(CC) $(CFLAGS) -o $@ $< -lm

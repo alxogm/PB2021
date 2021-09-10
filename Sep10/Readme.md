@@ -12,4 +12,6 @@ Escribe un programa que nos permita elegir alguna de las siguientes actividades:
 Despliega las opciones para las cantidades a transformar (al menos 4), e.g. longitud… 
 
 - Utiliza las instrucciones switch e if…else, como consideres que es mas apropiado
- 
+
+programa: transformaciones.c
+

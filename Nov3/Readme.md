@@ -10,5 +10,5 @@ en el orden indicado.
 
 
 
-Alternativa: Solamente después de haber intentado, sin exito, instalar python (cualquier distribución) en su computadora es posible utilizar [Colaboratory https://colab.research.google.com/?utm_source=scs-index ]
+Alternativa: Solamente después de haber intentado, sin exito, instalar python (cualquier distribución) en su computadora, es posible utilizar [Colaboratory https://colab.research.google.com/?utm_source=scs-index ]
 En cuyo caso deberán encontrar la forma de ligar colaboratory a su drive the gmail y a su repositorio de github, de tal forma que puedan guardar su trabajo y actualizar su repositorio de github. 

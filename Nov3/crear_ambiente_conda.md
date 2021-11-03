@@ -2,7 +2,7 @@ Suponiendo que has instalado miniconda, es recomendable crear un ambiente de tra
 
 -Linux: 
 ```
-  export $MINICONDA=PATH_TO_MINICONDA (Debes reemplazar $PATH_TO_MINICONDA por el directorio donde se instalo miniconda, eg. /Users/alma/miniconda3)
+  export MINICONDA=PATH_TO_MINICONDA (Debes reemplazar $PATH_TO_MINICONDA por el directorio donde se instalo miniconda, eg. /Users/alma/miniconda3)
   source $MINICONDA/bin/activate
 ``` 
 - Windows:

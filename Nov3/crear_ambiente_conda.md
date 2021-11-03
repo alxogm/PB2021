@@ -6,7 +6,7 @@ Suponiendo que has instalado miniconda, es recomendable crear un ambiente de tra
   source $MINICONDA/bin/activate
 ``` 
 - Windows:
-  - Desde el menu de windows selecciona `Anoconda Prompt`, con lo que se abrirá una terminal muy parecida a una terminal de linux donde ya está activo miniconda
+  - Desde el menu de windows selecciona `Anaconda Prompt`, con lo que se abrirá una terminal muy parecida a una terminal de linux donde ya está activo miniconda
 
 En ambos casos una vez activado miniconda, la siguiente instrucción creará un ambiente llamado pb_2021 y tendrá las librerias `jupyterlab numpy matplotlib` ya instaladas. 
 

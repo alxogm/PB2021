@@ -8,9 +8,13 @@ print(f"Tin={Tin},Tfin={Tfin},delta={delta}")
 
 n=int((Tfin-Tin)/delta)
 
+
+## Comentario de comparación de la sintaxis de un ciclo for en C y un ciclo for en python
 #for(i=0;i<n;i++){
 #
 #}
+
+
 TC=Tin
 
 for i in range(n):

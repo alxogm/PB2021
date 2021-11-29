@@ -1,6 +1,6 @@
 Proyecto Final 
 
-- Este proyecto será en equipo, 2 o 3 personas. Crearán un repositorio siguiendo el link: https://classroom.github.com/a/9aYasPG_
+- Este proyecto será en equipo, 2 o 3 personas. Crearán un repositorio siguiendo el link: https://classroom.github.com/a/yDxmQPCf
 
 - Los integrantes del equipo deben elegir el tema para el proyecto. 
 
@@ -17,4 +17,5 @@ Se tomará en cuenta que haya actualizaciones continuas, de todos los integrante
 Deberán ir actualizando la rama maestra con todo aquello vaya funcionando aunque no este completo, o sufra modificaciones posteriormente. Esto incluye el reporte, diagramas de flujo, etc.., cada nueva contribución pasa por un PR aceptado por los otros miembros del equipo.
 
 Fecha de entrega: 8 de Diciembre de 2021
+
 Fecha límite para correcciones y/o mejoras al proyecto: 10 de Diciembre 2021
